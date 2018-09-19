@@ -15,6 +15,7 @@
 //                 Alexandros Dorodoulis <https://github.com/alexdor>
 //                 Manuel Heidrich <https://github.com/mahnuh>
 //                 Conrad Holtzhausen <https://github.com/Conrad777>
+//                 Emiliano Bivachi <https://github.com/bachino90>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3
 
@@ -496,6 +497,7 @@ declare namespace Chart {
         max?: any;
         maxRotation?: number;
         maxTicksLimit?: number;
+        stepSize?: number;
         min?: any;
         minRotation?: number;
         mirror?: boolean;
